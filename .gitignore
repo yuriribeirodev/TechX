@@ -1,0 +1,28 @@
+# --- IDEs e Editores ---
+.idea/
+*.iml
+.vscode/
+
+# --- Sistema Operacional (macOS) ---
+.DS_Store
+*.swp
+
+# --- Java (Compilados e Builds) ---
+*.class
+out/
+target/
+build/
+.gradle/
+*.jar
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+env/
+*.env
+
+# --- Bancos de Dados / Logs ---
+*.sqlite3
+*.db
+*.log
