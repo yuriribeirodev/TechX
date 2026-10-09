@@ -11,6 +11,10 @@ Repositório das atividades da disciplina, organizado por tecnologia e tarefa.
 
 As tarefas 4 e 5 foram copiadas de [anaoliveiravv/techx](https://github.com/anaoliveiravv/techx), dos diretórios `bancodedados/entregavel4` e `bancodedados/entregavel5`. São exemplos independentes do modelo de hotéis das tarefas anteriores; não execute seus scripts sobre o mesmo esquema esperando continuidade entre as tarefas.
 
+## APIs e backend
+
+- `api/tarefa02`: API REST de alunos em Spring Boot com JPA e PostgreSQL.
+
 ## Convenção de commits
 
 Usamos o padrão **Conventional Commits**:
