@@ -26,3 +26,4 @@ env/
 *.sqlite3
 *.db
 *.log
+sql/tarefa06/backups/

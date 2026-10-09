@@ -7,6 +7,7 @@ Repositório das atividades da disciplina, organizado por tecnologia e tarefa.
 - `sql/tarefa01` a `sql/tarefa03`: atividades sobre a rede de hotéis; a tarefa 3 usa MySQL 8.0+.
 - `sql/tarefa04`: exemplo de biblioteca em PostgreSQL.
 - `sql/tarefa05`: exemplo de sistema acadêmico em PostgreSQL.
+- `sql/tarefa06`: continuação do sistema acadêmico com backup, restauração e MongoDB.
 
 As tarefas 4 e 5 foram copiadas de [anaoliveiravv/techx](https://github.com/anaoliveiravv/techx), dos diretórios `bancodedados/entregavel4` e `bancodedados/entregavel5`. São exemplos independentes do modelo de hotéis das tarefas anteriores; não execute seus scripts sobre o mesmo esquema esperando continuidade entre as tarefas.
 
