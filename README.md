@@ -15,6 +15,7 @@ As tarefas 4 e 5 foram copiadas de [anaoliveiravv/techx](https://github.com/anao
 
 - `api/tarefa02`: API REST de alunos em Spring Boot com JPA e PostgreSQL.
 - `api/tarefa03`: CRUD de alunos com DTOs e tratamento explícito de registros não encontrados.
+- `api/tarefa04`: revisão do PUT e DELETE com Lombok, DTOs e respostas HTTP 204.
 
 ## Convenção de commits
 
